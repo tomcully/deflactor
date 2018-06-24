@@ -1,0 +1,22 @@
+{
+  "name": "deflactor",
+  "version": "0.1.0",
+  "description": "Intercept and mock out http calls when using protractor for browser testing.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomcully/deflactor.git"
+  },
+  "author": "Thomas Cullinane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomcully/deflactor/issues"
+  },
+  "homepage": "https://github.com/tomcully/deflactor#readme"
+}
