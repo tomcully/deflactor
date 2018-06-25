@@ -2,7 +2,7 @@
   "name": "deflactor",
   "version": "0.1.0",
   "description": "Intercept and mock out http calls when using protractor for browser testing.",
-  "main": "index.js",
+  "main": "lib/src/index.js",
   "directories": {
     "lib": "lib"
   },
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/tomcully/deflactor/issues"
   },
-  "homepage": "https://github.com/tomcully/deflactor#readme"
+  "homepage": "https://github.com/tomcully/deflactor#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "protractor": "^5.3.2"
+  }
 }
